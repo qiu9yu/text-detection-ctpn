@@ -1,0 +1,11 @@
+python==3.7.4
+cython==0.29.23
+cudnn==7.6.5
+cudatoolkit==10.0.130
+numpy==1.19.1
+opencv==3.4.2
+tensorflow-gpu==1.15.0
+tqdm==4.50.2
+ipython==7.18.1
+Shapely==1.7.1
+matplotlib==3.3.1
